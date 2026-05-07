@@ -1,6 +1,6 @@
 {
-  "name": "PlayHub",
-  "description": "Premium game portal featuring Bloxorz and other classic mini-games. No ads, high performance, and curated fun.",
+  "name": "Play-Hub",
+  "description": "A modern, high-performance HTML5 game portal featuring 100+ high-quality games from GameDistribution. Built with React, Tailwind CSS, and a premium dark mode aesthetic.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }

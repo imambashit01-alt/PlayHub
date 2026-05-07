@@ -1,0 +1,45 @@
+[
+  { 
+    "id": "bloxorz", 
+    "title": "Bloxorz", 
+    "thumbnail": "https://www.friv.com/z/games/bloxorz/square-gamethumb-2-bloxorz.png", 
+    "category": "puzzle", 
+    "rating": 5.0, 
+    "players": "10.5M",
+    "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf",
+    "descriptions": {
+      "en": "The classic block-rolling puzzle. Navigate the cube to the hole without falling off!"
+    }
+  },
+  { 
+    "id": "medieval-castle-defense", 
+    "title": "Medieval Castle Defense", 
+    "thumbnail": "https://www.htmlgames.com/uploaded/game/thumb/medievalcastledefense300200.webp", 
+    "category": "action", 
+    "rating": 4.8, 
+    "players": "1.2M", 
+    "htmlUrl": "https://cdn.htmlgames.com/MedievalCastleDefense/",
+    "descriptions": {
+      "en": "Defend your castle from waves of invaders in this medieval strategy game!"
+    }
+  },
+  { "id": "act-1", "title": "Shadow Ninja", "thumbnail": "https://picsum.photos/seed/act1/400/225", "category": "action", "rating": 4.7, "players": "850K", "htmlUrl": "https://cdn.htmlgames.com/MedievalCastleDefense/" },
+  { "id": "act-2", "title": "Hero Strike", "thumbnail": "https://picsum.photos/seed/act2/400/225", "category": "action", "rating": 4.5, "players": "1.1M", "htmlUrl": "https://cdn.htmlgames.com/MedievalCastleDefense/" },
+  { "id": "act-3", "title": "Brave Combat", "thumbnail": "https://picsum.photos/seed/act3/400/225", "category": "action", "rating": 4.2, "players": "600K", "htmlUrl": "https://cdn.htmlgames.com/MedievalCastleDefense/" },
+  { "id": "act-4", "title": "Kingdom War", "thumbnail": "https://picsum.photos/seed/act4/400/225", "category": "action", "rating": 4.9, "players": "2.3M", "htmlUrl": "https://cdn.htmlgames.com/MedievalCastleDefense/" },
+  { "id": "puz-1", "title": "Hexa Connect", "thumbnail": "https://picsum.photos/seed/puz1/400/225", "category": "puzzle", "rating": 4.8, "players": "450K", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "puz-2", "title": "Logic Flow", "thumbnail": "https://picsum.photos/seed/puz2/400/225", "category": "puzzle", "rating": 4.6, "players": "300K", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "puz-3", "title": "Mind Master", "thumbnail": "https://picsum.photos/seed/puz3/400/225", "category": "puzzle", "rating": 4.7, "players": "920K", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "arc-1", "title": "Neon Runner", "thumbnail": "https://picsum.photos/seed/arc1/400/225", "category": "arcade", "rating": 4.3, "players": "1.5M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "arc-2", "title": "Pixel Dash", "thumbnail": "https://picsum.photos/seed/arc2/400/225", "category": "arcade", "rating": 4.4, "players": "780K", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "arc-3", "title": "Retro Blast", "thumbnail": "https://picsum.photos/seed/arc3/400/225", "category": "arcade", "rating": 4.5, "players": "2.1M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "spo-1", "title": "Dunk King", "thumbnail": "https://picsum.photos/seed/spo1/400/225", "category": "sports", "rating": 4.6, "players": "3.2M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "spo-2", "title": "Soccer Pro", "thumbnail": "https://picsum.photos/seed/spo2/400/225", "category": "sports", "rating": 4.2, "players": "1.8M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "spo-3", "title": "Tennis Ace", "thumbnail": "https://picsum.photos/seed/spo3/400/225", "category": "sports", "rating": 4.8, "players": "500K", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "2p-1", "title": "Duel Arena", "thumbnail": "https://picsum.photos/seed/2p1/400/225", "category": "2-player", "rating": 4.9, "players": "4.5M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "2p-2", "title": "Twin Stars", "thumbnail": "https://picsum.photos/seed/2p2/400/225", "category": "2-player", "rating": 4.7, "players": "2.2M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "sho-1", "title": "Zombie Target", "thumbnail": "https://picsum.photos/seed/sho1/400/225", "category": "shooting", "rating": 4.5, "players": "8.8M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "sho-2", "title": "Dead Ops", "thumbnail": "https://picsum.photos/seed/sho2/400/225", "category": "shooting", "rating": 4.6, "players": "5.6M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "dri-1", "title": "Drift King", "thumbnail": "https://picsum.photos/seed/dri1/400/225", "category": "driving", "rating": 4.4, "players": "12M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" },
+  { "id": "dri-2", "title": "Moto Speed", "thumbnail": "https://picsum.photos/seed/dri2/400/225", "category": "driving", "rating": 4.7, "players": "7.2M", "swf": "https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/web/packages/core/test/test_assets/classic_as2.swf" }
+]
